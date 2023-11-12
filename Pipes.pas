@@ -4,7 +4,7 @@ unit Pipes;
 // using Named Pipes. One of the best solutions when you need to communicate
 // with an NT/2000/XP service, and/or communicate across an MS Windows network.
 //
-// Free Source Code, no license, no guarantee, no liability.
+// Free Source Code, released under "The Unlicense", no guarantee, no liability.
 //
 // The original author, Russell, gave this to me with no usage restrictions
 // whatsoever.
